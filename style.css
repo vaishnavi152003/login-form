@@ -1,0 +1,50 @@
+body{
+    background-image: url(image/joanna-kosinska-7ACuHoezUYk-unsplash.jpg);
+    width: 2000px;
+    height: 708px;
+    overflow: hidden;
+}
+h1{
+    color: #f0f8ff;
+    font-size: 350%;
+}
+.{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.login{
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    position:absolute ;
+    color: #fff;
+}
+.login h1{
+    font-size: 40px;
+    text-align: center;
+    margin: 40px 0;
+}
+.login p{
+    font-size: 20px;
+    margin: 15px 0;
+}
+.login input{
+    font-size: 16px;
+    width: 100%;
+    height: 90%;
+    padding: 15px 10px;
+    border: 0;
+    outline: none;
+    border-radius: 5px;
+}
+.login button{
+    font-size: 18px;
+    font-weight: bold;
+    margin: 20px 0;
+    padding: 9px 13px;
+    width: 35%;
+    border-radius: 5px;
+    border: 0;
+}
